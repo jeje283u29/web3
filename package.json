@@ -1,5 +1,5 @@
 {
-  "name": "evm-validation",
+  "name": "evm-testnet-validation",
   "version": "1.0.1",
   "description": "This package provides functions to validate EVM.",
   "main": "index.js",
